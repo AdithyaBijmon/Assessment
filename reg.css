@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h3{
+    color: #fff;
+    text-align: center;
+}
+
+.box{
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+    margin-left: 400px;
+    margin-right: 500px;
+    padding: 70px;
+    margin-top: 5px;
+    font-family: cursive;
+}
+
+label{
+    color: #fff;
+}
+
+input{
+    background: transparent;
+    border-color: #fff;
+    border-radius: 20px;
+    padding: 5px;
+    color: #fff;
+}
+
+.submit{
+    color: #fff;
+    background-color: blue;
+    border-color: blue;
+    padding: 7px 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.submit:hover{
+    transition: 0.5s;
+    background-color: rgb(86, 86, 209);
+    border-color: rgb(86, 86, 209);
+}

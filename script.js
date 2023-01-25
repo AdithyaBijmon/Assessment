@@ -1,0 +1,1 @@
+let collegename = document.getElementById("")
